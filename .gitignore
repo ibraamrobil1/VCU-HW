@@ -1,1 +1,5 @@
+.gitignore
 __Previews/
+History/
+Libraries/
+VCU_HW.Annotation
